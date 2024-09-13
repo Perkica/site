@@ -1,0 +1,57 @@
+body {
+  background-color: black;
+}
+header {
+  margin: 10px;
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(46, 46, 46);
+}
+img {
+  width: 8%;
+  display: block;
+  padding-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+section {
+  margin: 30px;
+  background-color: rgb(46, 46, 46);
+}
+#about-cont {
+  padding: 15px;
+}
+#work {
+  padding: 15px;
+  color: rgb(173, 171, 171);
+}
+.need-center {
+  text-align: center;
+  color: rgb(173, 171, 171);
+  padding-top: 10px;
+}
+
+.second-content {
+  color: rgb(173, 171, 171);
+  padding-left: 10px;
+  padding-top: 5px;
+}
+.projects {
+  border: 2px solid green;
+  margin: 20px;
+  text-align: center;
+  line-height: 300px;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+}
+footer {
+  margin: 15px;
+  color: rgb(173, 171, 171);
+  padding: 25px;
+  text-align: center;
+  background-color: rgb(46, 46, 46);
+}
+footer a {
+  color: wheat;
+}
